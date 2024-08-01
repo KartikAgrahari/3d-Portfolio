@@ -1,7 +1,7 @@
 import {
     mobile,
     backend,
-    creator,
+    data_scientist,
     web,
     javascript,
     typescript,
@@ -54,8 +54,8 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
-      icon: creator,
+      title: "Data Scientist",
+      icon: data_scientist,
     },
   ];
   
